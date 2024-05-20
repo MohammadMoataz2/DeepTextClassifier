@@ -21,6 +21,9 @@
 - Pandas
 - Matplotlib and Seaborn
 
+![image](https://github.com/MohammadMoataz2/X-rayGuardian/assets/123085286/2f9bcb2e-0b4d-4d52-b3e5-da39a6c3a813)
+
+
 ## Model Building
 
 ### Technology Used
